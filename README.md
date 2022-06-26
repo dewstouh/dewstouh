@@ -1,4 +1,4 @@
-  [![NIBY 2.0 WALLPAPER](https://i.imgur.com/WTfplvd.png)](https://www.youtube.com/channel/UCFEt74PJAXUKBBWyVFZaCrw) 
+  [![NIBY WALLPAPER](https://i.imgur.com/9Bk43XP.png)](https://www.youtube.com/channel/UCFEt74PJAXUKBBWyVFZaCrw) 
 <p>
   <h1 align="center"><b>Hola!, Soy Dewstouh👋</b></h1>
 </p>
