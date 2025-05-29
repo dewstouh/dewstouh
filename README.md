@@ -1,6 +1,6 @@
 [![NIBY WALLPAPER](https://i.imgur.com/9Bk43XP.png)](https://www.youtube.com/@codingwithdew3066)
 
-<h1 align="center"><b>Diego Rodríguez - dewstouh 👨‍💻</b></h1>
+<h1 align="center"><b>Coding with Dew - dewstouh 👨‍💻</b></h1>
 <p align="center">
   <b>Desarrollador Full-Stack autodidacta. Vivo en el mundo real, no solo en el navegador.</b>
 </p>
@@ -22,7 +22,7 @@
 - 🚀 Creador de [elmundodeniby.com](https://elmundodeniby.com) y [bin.elmundodeniby.com](https://bin.elmundodeniby.com).
 - 🎥 Canal YouTube técnico: [Coding With Dew](https://www.youtube.com/@codingwithdew3066)
 - 🎯 Abierto a cualquier oferta de trabajo remoto o híbrido que me permita mantenerme mientras escalo en mis proyectos.
-- 📬 Contacto: [Discord](https://discord.gg/MBPsvcphGf) | diego.rodriguez@elmundodeniby.com
+- 📬 Contacto: [Discord](https://discord.gg/MBPsvcphGf) | dewstouh@elmundodeniby.com
 
 ***
 
