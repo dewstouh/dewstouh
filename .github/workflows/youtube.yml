@@ -1,0 +1,16 @@
+  name: Latest YouTube Videos
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-youtube:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: 5
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCtbAZdy0AYdoQlU8vVaJ7YA"
