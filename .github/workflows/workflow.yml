@@ -1,0 +1,48 @@
+name: 🔄 Auto Update README Content
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # ░░░░░░░░░░░░░░░░░░░░░
+      # 🟥 YouTube Section
+      - name: Update YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: 5
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCtbAZdy0AYdoQlU8vVaJ7YA"
+          commit_message: "🟥 update: latest YouTube videos"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ░░░░░░░░░░░░░░░░░░░░░
+      # 🔄 GitHub Activity Section
+      - name: Generate recent activity
+        uses: Readme-Workflows/recent-activity@v2
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ░░░░░░░░░░░░░░░░░░░░░
+      # 📝 Commit and push changes
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push if needed
+        run: |
+          git add .
+          git diff --cached --quiet || git commit -m "📝 update: README auto content"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git push
