@@ -1,63 +1,55 @@
-[![NIBY WALLPAPER](https://i.imgur.com/9Bk43XP.png)](https://www.youtube.com/@codingwithdew3066)
-
-<h1 align="center"><b>Coding with Dew - dewstouh 👨‍💻</b></h1>
 <p align="center">
-  <b>Desarrollador Full-Stack autodidacta. Vivo en el mundo real, no solo en el navegador.</b>
+  <img src="https://avatars.githubusercontent.com/u/53043542?v=4" width="120" />
+  <div align="center" style="margin-top: 16px;">
+  <a href="https://youtube.com/@codingwithdew3066" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" height="28" style="margin: 0 8px; transition: opacity 0.2s;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1" />
+  </a>
+  <a href="https://linkedin.com/in/bydiego" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="30" style="margin: 0 8px; transition: opacity 0.2s;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1" />
+  </a>
+  <a href="https://justdiego.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Globe-Africa-and-Europe%26Asiaparts.svg/640px-Globe-Africa-and-Europe%26Asiaparts.svg.png" height="30" style="margin: 0 8px; transition: opacity 0.2s;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1" />
+  </a>
+</div>
 </p>
 
-***
+<h1 align="center"><strong>Diego "Coding with Dew" Rodríguez</strong></h1>
 
-<h4 align="center"><i>"Codea como si tu vida dependiera de ello."</i></h4>
+<p align="center"><i>Software Developer | Structuring systems from scratch</i></p>
 
-***
-
-<img align="right" height="270px" alt="GIF" src="https://i.imgur.com/KdZeoNg.png" />
-
-### Sobre mí
-
-- 🧠 21 años. España - Madrid. De camino a las afueras.
-- 🛠️ Especializado en desarrollo backend con Node.js y automatización.
-- 🧵 Hago bots de Discord, APIs, herramientas web y despliegues reales en VPS.
-- ✅ Frontend: React, HTML, CSS
-- 🚀 Creador de [elmundodeniby.com](https://elmundodeniby.com) y [bin.elmundodeniby.com](https://bin.elmundodeniby.com).
-- 🎥 Canal YouTube técnico: [Coding With Dew](https://www.youtube.com/@codingwithdew3066)
-- 🎯 Abierto a cualquier oferta de trabajo remoto o híbrido que me permita mantenerme mientras escalo en mis proyectos.
-- 📬 Contacto: [Discord](https://discord.gg/MBPsvcphGf) | dewstouh@elmundodeniby.com
-
-***
-
-### Tech Stack y herramientas principales
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="40"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" width="100"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" width="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" alt="Nginx" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/cloud.png" alt="VPS / Oracle Cloud" width="40"/>
-  <img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/6EYsdkdfBcHtgPmgp3YtkD/0b203affd2053988264b9253b13de6b3/logo-thumbnail.png" alt="Cloudflare" width="90"/>
+  <a href="https://bin.elmundodeniby.com" target="_blank">
+    <img src="https://placehold.co/150x40/0f0f0f/ffffff?text=El+Mundo+de+Niby" height="40" style="margin: 0 10px; transition: all 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://niby.elmundodeniby.com" target="_blank">
+    <img src="https://placehold.co/150x40/0f0f0f/ffffff?text=CodeBinX" height="40" style="margin: 0 10px; transition: all 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://justdiego.com" target="_blank">
+    <img src="https://placehold.co/150x40/0f0f0f/ffffff?text=justdiego.com" height="40" style="margin: 0 10px; transition: all 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
 </p>
 
-<p align="center">
-  <b>Node.js · TypeScript · MongoDB · Express · React · Tailwind · Git · GitHub · NGINX · Oracle Cloud · Cloudflare</b>
-</p>
+---
 
-***
+### 🔴 Latest YouTube Videos
 
-### Proyectos Destacados
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
-- [El Mundo de Niby](https://elmundodeniby.com) - Plataforma de bots de Discord con panel propio.
-- [Bot Niby - Open Source](https://github.com/dewstouh/niby-discord-bot)
-- [Bin de código personalizado](https://bin.elmundodeniby.com) - Compartir código tipo hastebin.
-- Automatizaciones personalizadas y configuración de DNS, SPF, DKIM, VPS, NGINX y más.
+---
 
-***
+### ✍ Recent Activity
 
-### Stats
+<!-- RECENT_REPOS:START -->
+<!-- RECENT_REPOS:END -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dewstouh&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=0d1117" alt="Estadísticas de dewstouh" width="60%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewstouh&layout=compact&hide_border=true&theme=radical" width="37%" alt="Lenguajes más usados por dewstouh">
+---
+
+### ⭐ Popular Repositories
+
+<!-- STATS_REPOS:START -->
+<!-- STATS_REPOS:END -->
+
+---
