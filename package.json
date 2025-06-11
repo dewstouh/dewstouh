@@ -1,0 +1,37 @@
+{
+  "name": "dewstouh",
+  "version": "1.0.0",
+  "description": "dewstouh README GitHub profile",
+  "main": "dist/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "ts-node src/test/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dewstouh/dewstouh.git"
+  },
+  "keywords": [
+    "readme",
+    "github profile",
+    "github readme"
+  ],
+  "author": "dewstouh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dewstouh/dewstouh/issues"
+  },
+  "homepage": "https://github.com/dewstouh/dewstouh#readme",
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "dotenv": "^16.5.0"
+  }
+}
