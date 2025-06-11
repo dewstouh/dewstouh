@@ -2,7 +2,7 @@ name: 🔄 Auto Update README Content
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 * * * *' # Every hour
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 🟥 Latest YouTube videos
+      # 🟥 YouTube Videos
       - name: Update YouTube section
         uses: gautamkrishnar/blog-post-workflow@master
         with:
@@ -22,24 +22,38 @@ jobs:
           commit_message: "🟥 update: latest YouTube videos"
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          custom_start_comment: "<!-- YOUTUBE:START -->"
+          custom_end_comment: "<!-- YOUTUBE:END -->"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 🕹 Recent GitHub activity
+      # 🕹 GitHub Activity
       - name: Generate recent GitHub activity
         uses: Readme-Workflows/recent-activity@main
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ✅ Commit and push
+      # ⭐ Popular Repositories
+      - name: Update popular repos section
+        uses: Readme-Workflows/recent-activity@main
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "⭐ update: popular repositories"
+          custom_start_comment: "<!-- POPULAR_REPOS:START -->"
+          custom_end_comment: "<!-- POPULAR_REPOS:END -->"
+          plugin_repositories: true
+          plugin_repositories_sort: stars
+          plugin_repositories_limit: 6
+
+      # ✅ Commit and Push
       - name: Setup Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit & push changes if any
+      - name: Commit & push if changed
         run: |
           git add .
-          git diff --cached --quiet || git commit -m "📝 update: README with YouTube & Activity"
+          git diff --cached --quiet || git commit -m "📝 update: README auto content"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push
