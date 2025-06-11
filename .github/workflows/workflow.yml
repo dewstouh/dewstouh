@@ -13,36 +13,33 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # ░░░░░░░░░░░░░░░░░░░░░
-      # 🟥 YouTube Section
-      - name: Update YouTube videos
+      # 🟥 Latest YouTube videos
+      - name: Update YouTube section
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 5
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCtbAZdy0AYdoQlU8vVaJ7YA"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCFEt74PJAXUKBBWyVFZaCrw"
           commit_message: "🟥 update: latest YouTube videos"
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ░░░░░░░░░░░░░░░░░░░░░
-      # 🔄 GitHub Activity Section
-      - name: Generate recent activity
-        uses: Readme-Workflows/recent-activity@v2
+      # 🕹 Recent GitHub activity
+      - name: Generate recent GitHub activity
+        uses: Readme-Workflows/recent-activity@main
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # ░░░░░░░░░░░░░░░░░░░░░
-      # 📝 Commit and push changes
-      - name: Configure Git
+      # ✅ Commit and push
+      - name: Setup Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and push if needed
+      - name: Commit & push changes if any
         run: |
           git add .
-          git diff --cached --quiet || git commit -m "📝 update: README auto content"
+          git diff --cached --quiet || git commit -m "📝 update: README with YouTube & Activity"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push
