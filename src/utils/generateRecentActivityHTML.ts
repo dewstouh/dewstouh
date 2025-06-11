@@ -1,8 +1,7 @@
 import { formatDistanceToNow } from "date-fns"
 import { Activity } from "../types/github"
-import { unique } from "./unique"
 import { ACTIVITY_COUNT, GITHUB_EVENTS } from "../config"
-import { sanitizeString } from "./sanitizeString"
+
 
 function splitTitleAndDescription(commitMessage:string){
     const [title, description] = commitMessage.split("\n\n")
@@ -13,7 +12,7 @@ export function generateRecentActivityHTML(activities: Activity[]): string {
     const filtered = activities.filter((event) =>
         GITHUB_EVENTS.includes(event.type)
     )
-    const entries: string[] = []
+    const entries: Map<string, string> = new Map()
 
     for (const event of filtered) {
         const repoName = event.repo.name
@@ -23,14 +22,17 @@ export function generateRecentActivityHTML(activities: Activity[]): string {
         if (event.type === 'PushEvent' && event.payload?.commits?.length) {
             for (const commit of event.payload.commits) {
                 const [commitTitle, commitDescription] = splitTitleAndDescription(commit.message);
-                entries.push(`- <strong>Commit</strong> to <a href="https://github.com/${repoName}">${repoName}</a>: ${commitTitle}${commitDescription ? `\n  - ${commitDescription}` : ""} • ${timeAgo}`)
+                const text = `- <strong>Commit</strong> to <a href="https://github.com/${repoName}">${repoName}</a>: ${commitTitle}${commitDescription ? `\n  - ${commitDescription}` : ""} • `
+                entries.set(text, timeAgo)
             }
         } else {
-            entries.push(`- <strong>${eventType}</strong> on <a href="https://github.com/${repoName}">${repoName}</a> • ${timeAgo}`)
+            entries.set(`- <strong>${eventType}</strong> on <a href="https://github.com/${repoName}">${repoName}</a> • `, timeAgo)
         }
 
     }
 
-    return `\n${unique(entries, (e) => e).slice(0, ACTIVITY_COUNT).join('\n')}\n`
+    const texts = Array.from(entries.entries()).map(([k, v]) => (`${k}${v}`)) // removes duplicates
+
+    return `\n${texts.slice(0, ACTIVITY_COUNT).join('\n')}\n`
   }
   

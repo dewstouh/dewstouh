@@ -5,6 +5,7 @@ const GITHUB_API = 'https://api.github.com'
 export async function getTopStarredRepos(username: string): Promise<Repo[]> {
     const url = `${GITHUB_API}/users/${username}/repos?per_page=100&sort=updated`
     const res = await fetch(url)
+    if(res.status == 403) throw new Error("Forbidden | Rate limit")
     const repos:Repo[] = await res.json()
 
     return repos
