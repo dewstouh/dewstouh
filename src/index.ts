@@ -14,16 +14,16 @@ import { generateRecentActivityHTML } from "./utils/generateRecentActivityHTML";
 
     // ---- YOUTUBE ----
 
-    const [repos, activities] = await Promise.all([
+    const [repos, activities, videos] = await Promise.all([
         getTopStarredRepos(GITHUB_USERNAME),
         getRecentActivity(GITHUB_USERNAME),
-        // getLatestYoutubeVideos()
+        getLatestYoutubeVideos()
     ])
 
-    // const latestYoutubeVideos = videos.map(generateYoutubeHTML).join('\n')
+    const latestYoutubeVideos = videos.map(generateYoutubeHTML).join('\n')
 
     const newMarkdown = readme
-    // .replace(YOUTUBE_PLACEHOLDER, `\n${latestYoutubeVideos}\n`)
+    .replace(YOUTUBE_PLACEHOLDER, `\n${latestYoutubeVideos}\n`)
     .replace(DATE_PLACEHOLDER, formatDistanceToNow(new Date(), { addSuffix: true }))
     .replace(STARS_PLACEHOLDER, generateTopReposHTML(repos))
     .replace(ACTIVITY_PLACEHOLDER, generateRecentActivityHTML(activities))

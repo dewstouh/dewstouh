@@ -35,7 +35,20 @@
 
 ### 🔴 Latest YouTube Videos
 
-%{{latest_youtube}}%
+
+
+<a href='https://youtu.be/IGWrOy_gd4w' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/IGWrOy_gd4w/mqdefault.jpg' alt='Como CREAR una API REST en TYPESCRIPT | Rest API Series #1' />
+</a>
+
+<a href='https://youtu.be/NHbQApz7iUE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/NHbQApz7iUE/mqdefault.jpg' alt='Como hacer un SISTEMA DE LOGS AVANZADO en Discord.js V14 (Discord.js v14 Series #26) (PARTE 1)' />
+</a>
+
+<a href='https://youtu.be/GzUJRjf8E0g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/GzUJRjf8E0g/mqdefault.jpg' alt='Como hacer un SISTEMA DE SNIPES con PÁGINAS en Discord.js V14! | Discord.js v14 Series #25' />
+</a>
+
 
 ---
 
@@ -47,18 +60,6 @@
 | [niby-discord-bot](https://github.com/dewstouh/niby-discord-bot) | Niby, an advanced Discord bot for community management, automation, and custom features. Built with Node.js and Discord.js. Production-ready and scalable. | x35 |
 | [handler-v14](https://github.com/dewstouh/handler-v14) | El MEJOR y más EFICIENTE Handler de Bots de Discord en ESPAÑOL, completamente RECARGABLE sin tener que reiniciar tu bot. Soportando COMANDOS DE PREFIJO Y SLASH! El handler ideal para tu bot de Discord. Creado por dewstouh | x23 |
 | [handler-v13](https://github.com/dewstouh/handler-v13) | El mejor Handler para tu Bot de Discord en Español! | x7 |
-| [sistema-de-bienvenidas](https://github.com/dewstouh/sistema-de-bienvenidas) | Un sencillo y util sistema de bienvenidas para vuestro bot de Discord | x4 |
-| [niby-welcomes](https://github.com/dewstouh/niby-welcomes) | Crea bienvenidas personalizables de manera sencilla & rápida con niby-welcomes | x3 |
-| [sistema-de-sugerencias](https://github.com/dewstouh/sistema-de-sugerencias) | _No description_ | x3 |
-| [sistema-de-tickets](https://github.com/dewstouh/sistema-de-tickets) | _No description_ | x2 |
-| [dewstouh](https://github.com/dewstouh/dewstouh) | _No description_ | x0 |
-| [nuqs-zod-adapter](https://github.com/dewstouh/nuqs-zod-adapter) | Adapter to use Nuqs & Zod schemas together with debouncing compatibility | x0 |
-| [codebinx](https://github.com/dewstouh/codebinx) | Share code easily with CodeBinX! An alternative to SourceBin or Pastebin. | x0 |
-| [api-rest-example](https://github.com/dewstouh/api-rest-example) | Sencillo ejemplo de una API Rest usando Express & Typescript | x0 |
-| [image-conversor](https://github.com/dewstouh/image-conversor) | Util conversor de imagenes JPEG, JPG, PNG, TIFF, JFIF y WEBP de manera rápida y sencilla (CON INTERFAZ) | x0 |
-| [speedgoose](https://github.com/dewstouh/speedgoose) | Next-level mongoose caching layer with event based cache clearing | x0 |
-| [fast-vps-setup](https://github.com/dewstouh/fast-vps-setup) | _No description_ | x0 |
-| [DewScript](https://github.com/dewstouh/DewScript) | Lua Script for Yim & Other menus to boost your account and do cool stuff with the included methods. | x0 |
 
 ---
 
@@ -67,10 +68,10 @@
 
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/nuqs-zod-adapter">dewstouh/nuqs-zod-adapter</a>: fix: missing index.ts content • about 4 hours ago
 - <strong>Create</strong> on <a href="https://github.com/dewstouh/nuqs-zod-adapter">dewstouh/nuqs-zod-adapter</a> • about 4 hours ago
+- <strong>Create</strong> on <a href="https://github.com/dewstouh/nuqs-zod-adapter">dewstouh/nuqs-zod-adapter</a> • about 5 hours ago
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: Update README.md
   - New info and structure • about 5 hours ago
 - <strong>Create</strong> on <a href="https://github.com/dewstouh/nuqs-zod-adapter">dewstouh/nuqs-zod-adapter</a> • about 7 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: [FIX]: Update password. [UPDATE]: Code refactor, +func verifyPassword -func BinLoading (code refactor) • 6 days ago
 
 
 ---
