@@ -18,7 +18,7 @@ jobs:
     - uses: actions/setup-node@v4
       with:
         node-version: '22'
-    - run: npm run start
+    - run: npm run update-readme
       env:
         YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
     - run: |
