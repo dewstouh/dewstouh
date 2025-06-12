@@ -1,6 +1,6 @@
 import { getLatestYoutubeVideos } from "./services/youtube.service";
 import { promises as fs } from 'fs'
-import { formatDistanceToNow } from 'date-fns'
+import { format } from 'date-fns'
 import { ACTIVITY_PLACEHOLDER, DATE_PLACEHOLDER, GITHUB_USERNAME, STARS_PLACEHOLDER, YOUTUBE_PLACEHOLDER } from './config';
 import { generateYoutubeHTML } from './utils/generateYoutubeHTML';
 import { getRecentActivity, getTopStarredRepos } from "./services/github.service";
@@ -24,7 +24,7 @@ import { generateRecentActivityHTML } from "./utils/generateRecentActivityHTML";
 
     const newMarkdown = readme
     .replace(YOUTUBE_PLACEHOLDER, `\n${latestYoutubeVideos}\n`)
-    .replace(DATE_PLACEHOLDER, formatDistanceToNow(new Date(), { addSuffix: true }))
+    .replace(DATE_PLACEHOLDER, format(new Date(), 'dd MMMM yyyy HH:mm'))
     .replace(STARS_PLACEHOLDER, generateTopReposHTML(repos))
     .replace(ACTIVITY_PLACEHOLDER, generateRecentActivityHTML(activities))
 
