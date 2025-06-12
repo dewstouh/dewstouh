@@ -66,12 +66,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/nuqs-zod-adapter">dewstouh/nuqs-zod-adapter</a>: fix: missing index.ts content • 4 hours ago
-- <strong>Create</strong> on <a href="https://github.com/dewstouh/nuqs-zod-adapter">dewstouh/nuqs-zod-adapter</a> • 5 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: Update README.md
-  - New info and structure • 5 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: [FIX]: Update password. [UPDATE]: Code refactor, +func verifyPassword -func BinLoading (code refactor) • 7 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: [DOCS] Added badges section at top • 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: [object Object] fix • about 12 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: remove duplicates on activity • about 13 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: Enable youtube feed • about 13 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: Fetch youtube videos + github activity (cronjob) • about 13 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: Update README.md • about 16 hours ago
 
 
 ---
@@ -92,4 +91,4 @@
 ![Audio Production](https://img.shields.io/badge/-Audio_Production-FF8C00?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Design](https://img.shields.io/badge/-Design-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-*Last updated: less than a minute ago*   
+*Last updated: 12 June 2025 11:05*   
