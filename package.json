@@ -27,12 +27,12 @@
   },
   "homepage": "https://github.com/dewstouh/dewstouh#readme",
   "devDependencies": {
-    "dotenv": "^16.5.0"
+    "@types/node": "^24.0.0",
+    "typescript": "^5.8.3",
+    "ts-node": "^10.9.2"
   },
   "dependencies": {
-    "date-fns": "^4.1.0",
-    "typescript": "^5.8.3",
-    "@types/node": "^24.0.0",
-    "ts-node": "^10.9.2"
+    "dotenv": "^16.5.0",
+    "date-fns": "^4.1.0"
   }
 }
