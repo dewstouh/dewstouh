@@ -56,7 +56,7 @@
 
 | ⭐ Repo | Description | ⭐ Stars |
 |--------|-------------|-------|
-| [bot-del-canal](https://github.com/dewstouh/bot-del-canal) | El Repositorio Oficial del Bot del Canal! También conocido como Mini Niby. Incluyendo comandos de ADMINISTRACIÓN, MODERACIÓN, MÚSICA... y mucho más! | x44 |
+| [bot-del-canal](https://github.com/dewstouh/bot-del-canal) | El Repositorio Oficial del Bot del Canal! También conocido como Mini Niby. Incluyendo comandos de ADMINISTRACIÓN, MODERACIÓN, MÚSICA... y mucho más! | x45 |
 | [niby-discord-bot](https://github.com/dewstouh/niby-discord-bot) | Niby, an advanced Discord bot for community management, automation, and custom features. Built with Node.js and Discord.js. Production-ready and scalable. | x36 |
 | [handler-v14](https://github.com/dewstouh/handler-v14) | El MEJOR y más EFICIENTE Handler de Bots de Discord en ESPAÑOL, completamente RECARGABLE sin tener que reiniciar tu bot. Soportando COMANDOS DE PREFIJO Y SLASH! El handler ideal para tu bot de Discord. Creado por dewstouh | x24 |
 | [handler-v13](https://github.com/dewstouh/handler-v13) | El mejor Handler para tu Bot de Discord en Español! | x7 |
@@ -66,11 +66,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: Create LICENSE • about 13 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: Initial commit from Create Next App • about 13 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: Complete code refactor • about 13 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: add "npm i" in update-readme script • about 17 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: fix dependencies • about 17 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: Create LICENSE • about 17 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: Initial commit from Create Next App • about 17 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: Complete code refactor • about 17 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: add "npm i" in update-readme script • about 21 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: fix dependencies • about 21 hours ago
 
 
 ---
@@ -91,4 +91,4 @@
 ![Audio Production](https://img.shields.io/badge/-Audio_Production-FF8C00?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Design](https://img.shields.io/badge/-Design-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-*Last updated: 13 June 2025 04:17*   
+*Last updated: 13 June 2025 08:12*   
