@@ -66,11 +66,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: Create LICENSE • 3 days ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: Initial commit from Create Next App • 3 days ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: Complete code refactor • 3 days ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: add "npm i" in update-readme script • 3 days ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: fix dependencies • 3 days ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: fix(scripts) seed rename database variables • 22 minutes ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: chore(db): move zod-prisma-types to db and regenerate Zod schemas • 27 minutes ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: chore(prisma): enforce single client via pnpm override • about 1 hour ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: refactor(core): sort services by bounded-context • about 2 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: chore(seed): declare @faker-js/faker in root devDependencies • about 2 hours ago
 
 
 ---
@@ -91,4 +91,4 @@
 ![Audio Production](https://img.shields.io/badge/-Audio_Production-FF8C00?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Design](https://img.shields.io/badge/-Design-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-*Last updated: 15 June 2025 08:10*   
+*Last updated: 15 June 2025 12:14*   
