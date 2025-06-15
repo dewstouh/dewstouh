@@ -66,11 +66,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: chore(prisma): zod generators output set to schemas/src/generated • 3 minutes ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: refactor(schemas) move to /src • 7 minutes ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: refactor(logger) move index to src • 9 minutes ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: fix(db): fixed Prisma extended typings using ReturnType<$extends> • 11 minutes ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: chore(schemas): delegate gen script to db and ensure zod-prisma-types devDep • about 2 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: fix(core): link project db and remove rootDir to avoid TS6059/6307 • about 1 hour ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: fix(web): missing baseUrl in tsconfig.json • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: fix(packages): add lib ES2020 to tsconfig to fix Promise issue • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: chore(prisma): zod generators output set to schemas/src/generated • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: refactor(schemas) move to /src • about 4 hours ago
 
 
 ---
@@ -91,4 +91,4 @@
 ![Audio Production](https://img.shields.io/badge/-Audio_Production-FF8C00?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Design](https://img.shields.io/badge/-Design-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-*Last updated: 15 June 2025 16:08*   
+*Last updated: 15 June 2025 20:08*   
