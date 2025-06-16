@@ -66,11 +66,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: fix(tsconfig): fixed includes and paths in @codebinx/web tsconfig.json • about 15 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: fix(core): link project db and remove rootDir to avoid TS6059/6307 • about 17 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: fix(web): missing baseUrl in tsconfig.json • about 20 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: fix(packages): add lib ES2020 to tsconfig to fix Promise issue • about 20 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: chore(prisma): zod generators output set to schemas/src/generated • about 20 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: refactor(db): move seed script to @codebinx/db + add faker-js as devDependency • about 5 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: chore(types): use BinWithAuthor in BinList • about 5 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: fix(web): Only async functions are allowed to be exported in a "use server" • about 5 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: fix(web): BinList props now has @codebinx/core typings • about 5 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: feat(core): add typings for services • about 5 hours ago
 
 
 ---
@@ -91,4 +91,4 @@
 ![Audio Production](https://img.shields.io/badge/-Audio_Production-FF8C00?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Design](https://img.shields.io/badge/-Design-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-*Last updated: 16 June 2025 12:16*   
+*Last updated: 16 June 2025 16:10*   
