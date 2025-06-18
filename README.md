@@ -66,10 +66,10 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: feat(tests): add tests for each service (100% coverage for services) • about 18 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: fix(tests): binservice create bin mock missing parameters • about 18 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: chore: add test setup to load DATABASE_URL for Prisma in Vitest • about 18 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: feat(core): add services tests • about 19 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: feat(tests): add tests for each service (100% coverage for services) • about 22 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: fix(tests): binservice create bin mock missing parameters • about 22 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: chore: add test setup to load DATABASE_URL for Prisma in Vitest • about 22 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: feat(core): add services tests • about 23 hours ago
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: refactor(db): move seed script to @codebinx/db + add faker-js as devDependency • 2 days ago
 
 
@@ -91,4 +91,4 @@
 ![Audio Production](https://img.shields.io/badge/-Audio_Production-FF8C00?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Design](https://img.shields.io/badge/-Design-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-*Last updated: 18 June 2025 12:16*   
+*Last updated: 18 June 2025 16:10*   
