@@ -66,11 +66,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Create</strong> on <a href="https://github.com/dewstouh/oracle-infra-setup">dewstouh/oracle-infra-setup</a> • about 9 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: feat(tests): add tests for each service (100% coverage for services) • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: fix(tests): binservice create bin mock missing parameters • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: chore: add test setup to load DATABASE_URL for Prisma in Vitest • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: feat(core): add services tests • 1 day ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: add support for cachet3x • about 1 hour ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: feat: README.md explanation for each folder • about 2 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: Initial infra stack: Cachet + Uptime Kuma • about 2 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: Update README.md • about 2 hours ago
+- <strong>Create</strong> on <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a> • about 2 hours ago
 
 
 ---
@@ -91,4 +91,4 @@
 ![Audio Production](https://img.shields.io/badge/-Audio_Production-FF8C00?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Design](https://img.shields.io/badge/-Design-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-*Last updated: 19 June 2025 08:12*   
+*Last updated: 19 June 2025 12:16*   
