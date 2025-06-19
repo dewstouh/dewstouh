@@ -70,7 +70,7 @@
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: fix(tests): binservice create bin mock missing parameters • 1 day ago
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: chore: add test setup to load DATABASE_URL for Prisma in Vitest • 1 day ago
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: feat(core): add services tests • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: refactor(db): move seed script to @codebinx/db + add faker-js as devDependency • 2 days ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/codebinx">dewstouh/codebinx</a>: refactor(db): move seed script to @codebinx/db + add faker-js as devDependency • 3 days ago
 
 
 ---
@@ -91,4 +91,4 @@
 ![Audio Production](https://img.shields.io/badge/-Audio_Production-FF8C00?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Design](https://img.shields.io/badge/-Design-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-*Last updated: 18 June 2025 20:10*   
+*Last updated: 19 June 2025 00:42*   
