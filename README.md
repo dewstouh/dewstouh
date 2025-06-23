@@ -66,11 +66,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Create</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • about 22 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: add support for cachet3x • 3 days ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: feat: README.md explanation for each folder • 3 days ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: Initial infra stack: Cachet + Uptime Kuma • 3 days ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: Update README.md • 3 days ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: update: README.md • about 1 hour ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: refactor(guide): moved folders and added backup guide • about 1 hour ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: update(readme): add image examples on tool extras and description • about 1 hour ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: feat(docs): mail server and webmail client guides • about 1 hour ago
+- <strong>Create</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • 1 day ago
 
 
 ---
@@ -91,4 +91,4 @@
 ![Audio Production](https://img.shields.io/badge/-Audio_Production-FF8C00?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Design](https://img.shields.io/badge/-Design-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-*Last updated: 22 June 2025 16:08*   
+*Last updated: 23 June 2025 00:46*   
