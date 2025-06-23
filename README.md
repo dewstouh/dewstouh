@@ -66,10 +66,10 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: update: README.md • about 1 hour ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: refactor(guide): moved folders and added backup guide • about 1 hour ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: update(readme): add image examples on tool extras and description • about 1 hour ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: feat(docs): mail server and webmail client guides • about 1 hour ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: update: README.md • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: refactor(guide): moved folders and added backup guide • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: update(readme): add image examples on tool extras and description • about 5 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: feat(docs): mail server and webmail client guides • about 5 hours ago
 - <strong>Create</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • 1 day ago
 
 
@@ -91,4 +91,4 @@
 ![Audio Production](https://img.shields.io/badge/-Audio_Production-FF8C00?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Design](https://img.shields.io/badge/-Design-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-*Last updated: 23 June 2025 00:46*   
+*Last updated: 23 June 2025 04:23*   
