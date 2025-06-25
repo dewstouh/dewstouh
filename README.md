@@ -57,7 +57,7 @@
 | ⭐ Repo | Description | ⭐ Stars |
 |--------|-------------|-------|
 | [bot-del-canal](https://github.com/dewstouh/bot-del-canal) | El Repositorio Oficial del Bot del Canal! También conocido como Mini Niby. Incluyendo comandos de ADMINISTRACIÓN, MODERACIÓN, MÚSICA... y mucho más! | x44 |
-| [niby-discord-bot](https://github.com/dewstouh/niby-discord-bot) | Niby, an advanced Discord bot for community management, automation, and custom features. Built with Node.js and Discord.js. Production-ready and scalable. | x39 |
+| [niby-discord-bot](https://github.com/dewstouh/niby-discord-bot) | Niby, an advanced Discord bot for community management, automation, and custom features. Built with Node.js and Discord.js. Production-ready and scalable. | x40 |
 | [handler-v14](https://github.com/dewstouh/handler-v14) | El MEJOR y más EFICIENTE Handler de Bots de Discord en ESPAÑOL, completamente RECARGABLE sin tener que reiniciar tu bot. Soportando COMANDOS DE PREFIJO Y SLASH! El handler ideal para tu bot de Discord. Creado por dewstouh | x24 |
 | [handler-v13](https://github.com/dewstouh/handler-v13) | El mejor Handler para tu Bot de Discord en Español! | x7 |
 
@@ -91,4 +91,4 @@
 ![Audio Production](https://img.shields.io/badge/-Audio_Production-FF8C00?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Design](https://img.shields.io/badge/-Design-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-*Last updated: 25 June 2025 12:16*   
+*Last updated: 25 June 2025 16:10*   
