@@ -1,11 +1,12 @@
 import { getLatestYoutubeVideos } from "./services/youtube.service";
 import { promises as fs } from 'fs'
 import { format } from 'date-fns'
-import { ACTIVITY_PLACEHOLDER, DATE_PLACEHOLDER, GITHUB_USERNAME, STARS_PLACEHOLDER, YOUTUBE_PLACEHOLDER } from './config';
+import { ACTIVITY_PLACEHOLDER, DATE_PLACEHOLDER, GITHUB_USERNAME, ORGANIZATIONS_PLACEHOLDER, STARS_PLACEHOLDER, YOUTUBE_PLACEHOLDER } from './config';
 import { generateYoutubeHTML } from './utils/generateYoutubeHTML';
-import { getRecentActivity, getTopStarredRepos } from "./services/github.service";
+import { getRecentActivity, getTopStarredRepos, getUserOrganizations } from "./services/github.service";
 import { generateTopReposHTML } from "./utils/generateTopReposHTML";
 import { generateRecentActivityHTML } from "./utils/generateRecentActivityHTML";
+import { generateOrganizationsHTML } from "./utils/generateOrganizationHTML";
 
 
 (async () => {
@@ -14,19 +15,21 @@ import { generateRecentActivityHTML } from "./utils/generateRecentActivityHTML";
 
     // ---- YOUTUBE ----
 
-    const [repos, activities, videos] = await Promise.all([
+    const [repos, activities, organizations] = await Promise.all([
         getTopStarredRepos(GITHUB_USERNAME),
         getRecentActivity(GITHUB_USERNAME),
-        getLatestYoutubeVideos()
+        /* getLatestYoutubeVideos(), */
+        getUserOrganizations(GITHUB_USERNAME)
     ])
 
-    const latestYoutubeVideos = videos.map(generateYoutubeHTML).join('\n')
+    /* const latestYoutubeVideos = videos.map(generateYoutubeHTML).join('\n') */
 
     const newMarkdown = readme
-    .replace(YOUTUBE_PLACEHOLDER, `\n${latestYoutubeVideos}\n`)
+    /* .replace(YOUTUBE_PLACEHOLDER, `\n${latestYoutubeVideos}\n`) */
     .replace(DATE_PLACEHOLDER, format(new Date(), 'dd MMMM yyyy HH:mm'))
     .replace(STARS_PLACEHOLDER, generateTopReposHTML(repos))
     .replace(ACTIVITY_PLACEHOLDER, generateRecentActivityHTML(activities))
+    .replace(ORGANIZATIONS_PLACEHOLDER, generateOrganizationsHTML(organizations))
 
 
     console.log('✅ README.md updated with latest information!')

@@ -13,6 +13,9 @@ export const ACTIVITY_COUNT = 5
 export const STARS_PLACEHOLDER = "%{{popular_repos}}%"
 export const REPO_COUNT = 5
 
+export const ORGANIZATIONS_PLACEHOLDER = "%{{organizations}}%"
+export const ORG_COUNT = 6
+
 export const DATE_PLACEHOLDER = "%{{last_updated}}%"
 
 export const GITHUB_USERNAME = "dewstouh"
