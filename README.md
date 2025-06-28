@@ -24,6 +24,16 @@
 <table align="center">
   <tr>
     <td><div align="center" style="margin: 10px;">
+  <a href="https://github.com/El-Mundo-de-Niby" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/138983874?v=4" width="60" height="60" alt="El-Mundo-de-Niby" style="border-radius: 50%; margin-bottom: 8px;" />
+  </a>
+  <br>
+  <strong><a href="https://github.com/El-Mundo-de-Niby" target="_blank">El-Mundo-de-Niby</a></strong>
+  <br>
+  <small>Infraestructure & Services that build El Mundo de ...</small>
+  <br>
+  <img src="https://img.shields.io/badge/repos-11-blue?style=flat-square" alt="Repositories" />
+</div></td><td><div align="center" style="margin: 10px;">
   <a href="https://github.com/justdiego-com" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/217927933?v=4" width="60" height="60" alt="justdiego-com" style="border-radius: 50%; margin-bottom: 8px;" />
   </a>
@@ -31,6 +41,16 @@
   <strong><a href="https://github.com/justdiego-com" target="_blank">justdiego-com</a></strong>
   <br>
   <small>Portfolio & infra of Diego Rodríguez - Everything ...</small>
+  <br>
+  <img src="https://img.shields.io/badge/repos-1-blue?style=flat-square" alt="Repositories" />
+</div></td><td><div align="center" style="margin: 10px;">
+  <a href="https://github.com/Quickfra" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/218400303?v=4" width="60" height="60" alt="Quickfra" style="border-radius: 50%; margin-bottom: 8px;" />
+  </a>
+  <br>
+  <strong><a href="https://github.com/Quickfra" target="_blank">Quickfra</a></strong>
+  <br>
+  <small>Infrastructure automation platform for startups. D...</small>
   <br>
   <img src="https://img.shields.io/badge/repos-0-blue?style=flat-square" alt="Repositories" />
 </div></td>
@@ -51,9 +71,9 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: fix: media icons not displaying • about 21 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: feat: organizations, removed youtube • about 21 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: chore(config): show only top 3 repos • about 21 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: fix: media icons not displaying • 1 day ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: feat: organizations, removed youtube • 1 day ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: chore(config): show only top 3 repos • 1 day ago
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: update: README.md • 6 days ago
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: refactor(guide): moved folders and added backup guide • 6 days ago
 
@@ -74,4 +94,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 28 June 2025 16:08*   
+*Last updated: 28 June 2025 20:08*   
