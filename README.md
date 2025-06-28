@@ -55,7 +55,7 @@
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: refactor(guide): moved folders and added backup guide • 5 days ago
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: update(readme): add image examples on tool extras and description • 5 days ago
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: feat(docs): mail server and webmail client guides • 5 days ago
-- <strong>Create</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • 6 days ago
+- <strong>Create</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • 7 days ago
 
 
 ---
@@ -74,4 +74,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 28 June 2025 04:12*   
+*Last updated: 28 June 2025 08:10*   
