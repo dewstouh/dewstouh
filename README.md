@@ -51,11 +51,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: feat: organizations, removed youtube • about 17 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: chore(config): show only top 3 repos • about 17 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: fix: media icons not displaying • about 21 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: feat: organizations, removed youtube • about 21 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: chore(config): show only top 3 repos • about 21 hours ago
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: update: README.md • 6 days ago
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: refactor(guide): moved folders and added backup guide • 6 days ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego-infra">dewstouh/justdiego-infra</a>: update(readme): add image examples on tool extras and description • 6 days ago
 
 
 ---
@@ -74,4 +74,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 28 June 2025 12:13*   
+*Last updated: 28 June 2025 16:08*   
