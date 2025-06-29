@@ -52,7 +52,7 @@
   <br>
   <small>Infrastructure automation platform for startups. D...</small>
   <br>
-  <img src="https://img.shields.io/badge/repos-0-blue?style=flat-square" alt="Repositories" />
+  <img src="https://img.shields.io/badge/repos-1-blue?style=flat-square" alt="Repositories" />
 </div></td>
   </tr>
 </table>
@@ -71,11 +71,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Create</strong> on <a href="https://github.com/justdiego-com/justdiego">justdiego-com/justdiego</a> • about 13 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/El-Mundo-de-Niby/.github">El-Mundo-de-Niby/.github</a>: Update README.md • about 13 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/oracle-saas-infra">dewstouh/oracle-saas-infra</a>: feat(server.md) add TLS certificate to avoid self-signed warning • about 15 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: fix: media icons not displaying • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: feat: organizations, removed youtube • 1 day ago
+- <strong>Create</strong> on <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a> • about 1 hour ago
+- <strong>Create</strong> on <a href="https://github.com/dewstouh/quickfra">dewstouh/quickfra</a> • about 1 hour ago
+- <strong>Create</strong> on <a href="https://github.com/justdiego-com/justdiego">justdiego-com/justdiego</a> • about 17 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/El-Mundo-de-Niby/.github">El-Mundo-de-Niby/.github</a>: Update README.md • about 17 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/oracle-saas-infra">dewstouh/oracle-saas-infra</a>: feat(server.md) add TLS certificate to avoid self-signed warning • about 19 hours ago
 
 
 ---
@@ -94,4 +94,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 29 June 2025 08:10*   
+*Last updated: 29 June 2025 12:14*   
