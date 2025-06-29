@@ -71,11 +71,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Create</strong> on <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a> • about 1 hour ago
-- <strong>Create</strong> on <a href="https://github.com/dewstouh/quickfra">dewstouh/quickfra</a> • about 1 hour ago
-- <strong>Create</strong> on <a href="https://github.com/justdiego-com/justdiego">justdiego-com/justdiego</a> • about 17 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/El-Mundo-de-Niby/.github">El-Mundo-de-Niby/.github</a>: Update README.md • about 17 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/oracle-saas-infra">dewstouh/oracle-saas-infra</a>: feat(server.md) add TLS certificate to avoid self-signed warning • about 19 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs(readme): update History behind Quickfra • 43 minutes ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs: add "History behind Quickfra" section to README • about 1 hour ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(assets): background image 1280x640 • about 1 hour ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat: CHANGELOG, SECURITY + Github Actions • about 2 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat: add LICENSE (Apache 2.0) • about 2 hours ago
 
 
 ---
@@ -94,4 +94,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 29 June 2025 12:14*   
+*Last updated: 29 June 2025 16:08*   
