@@ -24,16 +24,6 @@
 <table align="center">
   <tr>
     <td><div align="center" style="margin: 10px;">
-  <a href="https://github.com/El-Mundo-de-Niby" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/138983874?v=4" width="60" height="60" alt="El-Mundo-de-Niby" style="border-radius: 50%; margin-bottom: 8px;" />
-  </a>
-  <br>
-  <strong><a href="https://github.com/El-Mundo-de-Niby" target="_blank">El-Mundo-de-Niby</a></strong>
-  <br>
-  <small>Infraestructure & Services that build El Mundo de ...</small>
-  <br>
-  <img src="https://img.shields.io/badge/repos-11-blue?style=flat-square" alt="Repositories" />
-</div></td><td><div align="center" style="margin: 10px;">
   <a href="https://github.com/justdiego-com" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/217927933?v=4" width="60" height="60" alt="justdiego-com" style="border-radius: 50%; margin-bottom: 8px;" />
   </a>
@@ -71,11 +61,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs(readme): update History behind Quickfra • about 17 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs: add "History behind Quickfra" section to README • about 17 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(assets): background image 1280x640 • about 17 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat: CHANGELOG, SECURITY + Github Actions • about 18 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat: add LICENSE (Apache 2.0) • about 18 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: ci(github): update CODEOWNERS with comprehensive team mappings • about 2 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(github): CODEOWNERS configuration • about 2 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(workflow): CI workflow • about 2 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs(readme): update History behind Quickfra • about 21 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs: add "History behind Quickfra" section to README • about 21 hours ago
 
 
 ---
@@ -94,4 +84,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 30 June 2025 08:13*   
+*Last updated: 30 June 2025 12:16*   
