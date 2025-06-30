@@ -61,11 +61,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: ci(github): update CODEOWNERS with comprehensive team mappings • about 2 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(github): CODEOWNERS configuration • about 2 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(workflow): CI workflow • about 2 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs(readme): update History behind Quickfra • about 21 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs: add "History behind Quickfra" section to README • about 21 hours ago
+- <strong>Create</strong> on <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a> • 1 day ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: delete(docs): plan.md • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: delete(cli): deleted cli package • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs(readme): update CLI usage • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs: simplify TEAMS.md structure and remove implementation guidance • about 4 hours ago
 
 
 ---
@@ -84,4 +84,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 30 June 2025 12:16*   
+*Last updated: 30 June 2025 16:10*   
