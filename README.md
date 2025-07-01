@@ -61,11 +61,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(docs): remove vultr and linode from supported providers • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(assets): upscale background image • about 8 hours ago
-- <strong>PullRequest</strong> on <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a> • about 9 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: delete: remove package templates and update README • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: ci(github-actions): fix Nx SHAs and CodeQL build • about 9 hours ago
+- <strong>Create</strong> on <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a> • about 16 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(docs): remove vultr and linode from supported providers • about 11 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(assets): upscale background image • about 11 hours ago
+- <strong>PullRequest</strong> on <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a> • about 13 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: delete: remove package templates and update README • about 11 hours ago
 
 
 ---
@@ -84,4 +84,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 01 July 2025 00:50*   
+*Last updated: 01 July 2025 04:28*   
