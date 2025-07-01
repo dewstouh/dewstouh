@@ -61,11 +61,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Create</strong> on <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a> • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: delete(docs): plan.md • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: delete(cli): deleted cli package • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs(readme): update CLI usage • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs: simplify TEAMS.md structure and remove implementation guidance • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(docs): remove vultr and linode from supported providers • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(assets): upscale background image • about 8 hours ago
+- <strong>PullRequest</strong> on <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a> • about 9 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: delete: remove package templates and update README • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: ci(github-actions): fix Nx SHAs and CodeQL build • about 9 hours ago
 
 
 ---
@@ -84,4 +84,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 30 June 2025 20:09*   
+*Last updated: 01 July 2025 00:50*   
