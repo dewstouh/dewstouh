@@ -61,11 +61,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Create</strong> on <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a> • about 16 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(docs): remove vultr and linode from supported providers • about 11 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(assets): upscale background image • about 11 hours ago
-- <strong>PullRequest</strong> on <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a> • about 13 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: delete: remove package templates and update README • about 11 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(core): add Coolify bootstrap and addon framework • about 12 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(core): add dynamic domain templating for docker compose configs • about 13 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(core): move docker compose configs to separate yml files • about 13 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(core): add docker compose and admin subdomain support to coolify service • about 13 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(core): organize code structure with services and tests directories • about 13 hours ago
 
 
 ---
@@ -84,4 +84,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 01 July 2025 04:28*   
+*Last updated: 01 July 2025 08:12*   
