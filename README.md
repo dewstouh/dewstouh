@@ -54,18 +54,18 @@
 | ⭐ Repo | Description | ⭐ Stars |
 |--------|-------------|-------|
 | [simple-multipurpose-discord-bot](https://github.com/dewstouh/simple-multipurpose-discord-bot) | El Repositorio Oficial del Bot del Canal! También conocido como Mini Niby. Incluyendo comandos de ADMINISTRACIÓN, MODERACIÓN, MÚSICA... y mucho más! | x44 |
-| [niby-discord-bot](https://github.com/dewstouh/niby-discord-bot) | Niby, an advanced Discord bot for community management, automation, and custom features. Built with Node.js and Discord.js. Production-ready and scalable. | x41 |
+| [niby-discord-bot](https://github.com/dewstouh/niby-discord-bot) | Niby, an advanced Discord bot for community management, automation, and custom features. Built with Node.js and Discord.js. Production-ready and scalable. | x42 |
 
 ---
 
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(oracle): set app_name in variables.tf, rename default.sh to cloud_init.sh, add coolify ports in ports.yaml • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs(roadmap): update tasks and add new features • about 11 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(terraform): add initial Terraform configuration and state files for AWS setup • 2 days ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(docs): improve video description • 2 days ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(docs): add video description • 2 days ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(cloud_init): remove create_user_ssh function • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(docs): README.md table removed and description update • about 8 hours ago
+- <strong>Create</strong> on <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a> • 3 days ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(docs): Roadmap day 2 done + result video • about 9 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: fix: cloud_init script not using the parsed variables • about 10 hours ago
 
 
 ---
@@ -84,4 +84,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 03 July 2025 20:08*   
+*Last updated: 04 July 2025 00:42*   
