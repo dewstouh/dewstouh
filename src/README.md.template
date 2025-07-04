@@ -4,15 +4,15 @@
 <i>Software Engineer & Platform Architecture</i>
 <p></p>
   <a href="https://linkedin.com/in/bydiego" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" alt="LinkedIn" height="34">
+    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" alt="ByDiego LinkedIn" height="34" width="34">
 </a>
 
 <a href="https://youtube.com/@codingwithdew3066" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=55200&format=png&color=000000" alt="LinkedIn" height="34">
+      <img src="https://img.icons8.com/?size=100&id=55200&format=png&color=000000" alt="Coding With Dew Youtube Channel" height="34" width="34">
 </a>
 
 <a href="https://justdiego.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=bAmuw2Fk26u0&format=png&color=000000" alt="LinkedIn" height="34">
+    <img src="https://img.icons8.com/?size=100&id=bAmuw2Fk26u0&format=png&color=000000" alt="JustDiego Website" height="34" width="34">
 </a>
 
 </div>
