@@ -52,11 +52,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(cloud_init): use generated coolify token in setup_mail_service API call • about 7 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(cloud_init): automate coolify access token creation • about 7 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(cloud_init): add wait_for_coolify function and health check • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/dewstouh">dewstouh/dewstouh</a>: update: remove top starred repos and tech stack • about 9 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: update(cloud_init): remove create_user_ssh function • 1 day ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: chore(cloud_init): move log messages to main function • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: chore(bash): fix shellcheck SC2155 (declare and assign separately) • about 9 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: chore(cloud_init): add log for API token enabling & generation • about 9 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: fix(cloud_init): create_coolify_app_dockercompose using wrong endpoint • about 9 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: fix(cloud_init): create_coolify_app_dockercompose returning null • about 9 hours ago
 
 
 ---
@@ -66,4 +66,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 04 July 2025 20:09*   
+*Last updated: 05 July 2025 00:40*   
