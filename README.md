@@ -52,11 +52,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: fix(scripts/lib/coolify.sh): invalid JSON due to project log parsing into project_uuid • about 1 hour ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/lib/coolify.sh) add json payload log in create_coolify_app_dockercompose function • about 1 hour ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/lib/coolify.sh) add curl response inside create_coolify_app_dockercompose • about 1 hour ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(terraform/scripts/lib): replace -s to -v in curl inside create_coolify_app_dockercompose • about 1 hour ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(terraform/scripts/lib): remove -s in curl inside create_coolify_app_dockercompose to show errors • about 1 hour ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(docker): add token template for replacement in cloudflared • about 5 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(scripts/lib/coolify.sh): remove response variable assignment to curl petition in create_coolify_app_dockercompose • about 5 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/env): add SOURCE_BASE_URL to avoid redundancy • about 5 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/env): add DOCKER_BASE_URL and SCRIPTS_BASE_URL • about 5 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/tasks/coolify): add cloudflared tunnel service • about 5 hours ago
 
 
 ---
@@ -66,4 +66,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 05 July 2025 20:08*   
+*Last updated: 06 July 2025 00:48*   
