@@ -52,11 +52,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/tasks/coolify/mail): replace "yourdomain" inside task_setup_mail with DOMAIN variable parsed in terraform variables • 1 minute ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: fix(scripts/tasks/coolify/cloudflared): remove ")" parenthesis in sed function inside task_setup_cloudfared • 1 minute ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(scripts/tasks/coolify/mail): use lowercase for local variables in task_setup_mail • 1 minute ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/env): add COOLIFY_DEFAULT_ENVIRONMENT variable to avoid redundancy • 1 minute ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(scripts/tasks/coolify): use $COOLIFY_DEFAULT_ENVIRONMENT variable inside tasks functions • 1 minute ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: fix(scripts/lib/coolify): invalid input syntax for type bigint set_coolify_server_wildcard_domain using get_main_coolify_server_uuid instead of get_main_coolify_server_id • 9 minutes ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: fix(scripts/lib/coolify): get_coolify_server_uuid: command not found using old function instead of get_main_coolify_server_uuid • 18 minutes ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/lib/coolify): add get_all_coolify_servers_data to return all servers data and rename get_coolify_server_data to get_main_coolify_server_data to avoid hardcoding • 22 minutes ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/tasks/coolify): get_main_coolify_server_uuid function to return [0] server uuid + replace old function name in install.sh to get_main_coolify_server_uuid • 22 minutes ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/lib/coolify): add get_main_coolify_server_id function to return main server id • 22 minutes ago
 
 
 ---
@@ -66,4 +66,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 06 July 2025 08:10*   
+*Last updated: 06 July 2025 12:14*   
