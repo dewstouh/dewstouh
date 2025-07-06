@@ -52,11 +52,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(docker): add token template for replacement in cloudflared • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(scripts/lib/coolify.sh): remove response variable assignment to curl petition in create_coolify_app_dockercompose • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/env): add SOURCE_BASE_URL to avoid redundancy • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/env): add DOCKER_BASE_URL and SCRIPTS_BASE_URL • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/tasks/coolify): add cloudflared tunnel service • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/tasks/coolify/mail): replace "yourdomain" inside task_setup_mail with DOMAIN variable parsed in terraform variables • 1 minute ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: fix(scripts/tasks/coolify/cloudflared): remove ")" parenthesis in sed function inside task_setup_cloudfared • 1 minute ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(scripts/tasks/coolify/mail): use lowercase for local variables in task_setup_mail • 1 minute ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/env): add COOLIFY_DEFAULT_ENVIRONMENT variable to avoid redundancy • 1 minute ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(scripts/tasks/coolify): use $COOLIFY_DEFAULT_ENVIRONMENT variable inside tasks functions • 1 minute ago
 
 
 ---
@@ -66,4 +66,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 06 July 2025 04:23*   
+*Last updated: 06 July 2025 08:10*   
