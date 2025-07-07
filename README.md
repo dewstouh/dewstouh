@@ -52,11 +52,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: [] • about 3 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: chore(scripts/lib/coolify): add TODO to replace SQL hack with API call • about 19 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: chore(docker/snappymail): remove TZ environment variable from compose file • about 19 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs(README): mark day 3 as completed in roadmap with video example • about 19 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(scripts/lib/coolify): set FQDN to 'coolify.$domain' subdomain in set_coolify_domain • about 24 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: fix(scripts/lib/coolify): use PATCH instead of POST for setting service env vars via API • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: fix(scripts): change env var setter from app endpoint to service endpoint • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: chore(scripts): remove log outputs outside main.sh • about 5 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: fix(scripts/lib/coolify): redirect log output to stderr to prevent stdout pollution • about 5 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: fix(scripts/lib/log): send log output to stderr instead of stdout • about 5 hours ago
 
 
 ---
@@ -66,4 +66,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 07 July 2025 12:16*   
+*Last updated: 07 July 2025 16:10*   
