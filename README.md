@@ -52,11 +52,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: chore(scripts/lib/coolify): add TODO to replace SQL hack with API call • about 3 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: chore(docker/snappymail): remove TZ environment variable from compose file • about 3 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs(README): mark day 3 as completed in roadmap with video example • about 3 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(scripts/lib/coolify): set FQDN to 'coolify.$domain' subdomain in set_coolify_domain • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: fix(scripts/lib/coolify): invalid input syntax for type bigint: "null", function get_main_coolify_server_id was returning .server_id instead of .settings.server_id (outdated Coolify docs) • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: chore(scripts/lib/coolify): add TODO to replace SQL hack with API call • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: chore(docker/snappymail): remove TZ environment variable from compose file • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs(README): mark day 3 as completed in roadmap with video example • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(scripts/lib/coolify): set FQDN to 'coolify.$domain' subdomain in set_coolify_domain • about 12 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: fix(scripts/lib/coolify): invalid input syntax for type bigint: "null", function get_main_coolify_server_id was returning .server_id instead of .settings.server_id (outdated Coolify docs) • about 12 hours ago
 
 
 ---
@@ -66,4 +66,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 06 July 2025 20:08*   
+*Last updated: 07 July 2025 00:46*   
