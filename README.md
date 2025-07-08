@@ -52,11 +52,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(docker): add uptime kuma yaml for status page tracking addons • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs(README): add new roadmap day 5 (Setup kuma status page tracking installed addons) • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs(scripts/tasks/coolify/mail): warn about domain assignment workaround tied to docker-compose service names • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(scripts/coolify): update service_applications domain setter to match by name instead of uuid • about 9 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/tasks/coolify/mail): debug mailserver_uuid and webmail_uuid • about 9 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/lib/snappymail): await snappymail to be ready to ensure the file is available to edit to avoid errors • about 9 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(scripts/lib/snappymail): use escape_sed for config replacements • about 10 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/lib): add escape_sed helper for sed-safe replacements • about 10 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/lib): add snappymail configuration functions to set admin login credentials the same as coolify for ease of access and rename snappymail to the app_name • about 11 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/tasks/coolify/mail): config snappymail after installation • about 11 hours ago
 
 
 ---
@@ -66,4 +66,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 08 July 2025 00:42*   
+*Last updated: 08 July 2025 04:19*   
