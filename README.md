@@ -52,11 +52,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs(README): remove send/receive working from Day 4 as some Cloud providers do not open the port 25 (workaround with SMTP relay) • about 6 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(scripts/lib/coolify.sh): remove -v flag from curl in set_coolify_service_env_var function • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: fix(scripts/lib/coolify): use PATCH instead of POST for setting service env vars via API • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: fix(scripts): change env var setter from app endpoint to service endpoint • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: chore(scripts): remove log outputs outside main.sh • about 9 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(docker): add uptime kuma yaml for status page tracking addons • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs(README): add new roadmap day 5 (Setup kuma status page tracking installed addons) • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: docs(scripts/tasks/coolify/mail): warn about domain assignment workaround tied to docker-compose service names • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(scripts/coolify): update service_applications domain setter to match by name instead of uuid • about 9 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/tasks/coolify/mail): debug mailserver_uuid and webmail_uuid • about 9 hours ago
 
 
 ---
@@ -66,4 +66,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 07 July 2025 20:09*   
+*Last updated: 08 July 2025 00:42*   
