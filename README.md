@@ -54,8 +54,8 @@
 - <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/lib/snappymail): await snappymail to be ready to ensure the file is available to edit to avoid errors • 1 day ago
 - <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: refactor(scripts/lib/snappymail): use escape_sed for config replacements • 1 day ago
 - <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/lib): add escape_sed helper for sed-safe replacements • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/lib): add snappymail configuration functions to set admin login credentials the same as coolify for ease of access and rename snappymail to the app_name • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/tasks/coolify/mail): config snappymail after installation • 1 day ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/lib): add snappymail configuration functions to set admin login credentials the same as coolify for ease of access and rename snappymail to the app_name • 2 days ago
+- <strong>Commit</strong> to <a href="https://github.com/Quickfra/quickfra">Quickfra/quickfra</a>: feat(scripts/tasks/coolify/mail): config snappymail after installation • 2 days ago
 
 
 ---
@@ -65,4 +65,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 09 July 2025 04:23*   
+*Last updated: 09 July 2025 12:16*   
