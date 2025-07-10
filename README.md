@@ -51,11 +51,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: feat(db/prisma): add createdAt and updatedAt under Site model and Outage model to know the start of a website tracking • about 12 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: feat(core/services/site): include outages on site request • about 12 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: refactor(db/prisma): rename Outage to outages in Site model • about 12 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: feat: add sites.txt placeholder for site tracking • about 12 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: feat(@quick-status/db): export prisma client as const • about 12 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: feat(web): add postcss config and tailwind • about 14 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: fix(services): typo in package.json name • about 14 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: refactor(packages): remove core and replace for dedicated services package • about 14 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: refactor(status-checker): rename to checker • about 15 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: refactor(db): move index.ts to /src/index.ts • about 15 hours ago
 
 
 ---
@@ -65,4 +65,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 10 July 2025 00:43*   
+*Last updated: 10 July 2025 04:21*   
