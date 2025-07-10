@@ -51,11 +51,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: fix(ci): enable foreign keys and improve database test setup • about 16 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: refactor(db/test): simplify prisma setup for testing • about 16 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: fix(db): update quick-status.db (last update didn't apply correctly) • about 16 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: fix(db): update quick-status.db with cascade settings and latest changes • about 16 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: docs: add CI and demo badges • about 16 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: fix(db/tests): add removed afterEach function to clean up database entries after each test is finished • about 1 hour ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: fix(ci): resolve all test failures and establish robust testing pipeline • about 18 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: ci: build all packages before running tests to fix missing exports • about 18 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: ci(docker): add GitHub Actions job to build Docker image after lint and test • about 18 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: chore(root): add start, lint:fix, test:ci scripts to package.json for unified monorepo workflow • about 19 hours ago
 
 
 ---
@@ -65,4 +65,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 10 July 2025 12:16*   
+*Last updated: 10 July 2025 16:10*   
