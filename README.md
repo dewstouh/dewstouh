@@ -51,11 +51,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: fix(db/tests): add removed afterEach function to clean up database entries after each test is finished • about 1 hour ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: fix(ci): resolve all test failures and establish robust testing pipeline • about 18 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: ci: build all packages before running tests to fix missing exports • about 18 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: ci(docker): add GitHub Actions job to build Docker image after lint and test • about 18 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: chore(root): add start, lint:fix, test:ci scripts to package.json for unified monorepo workflow • about 19 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: feat(packages): add lint checks • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: fix(packages): correct lint errors • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: chore(turbo): disable caching for tests • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: refactor(db): default Site and Outage id to random uuid • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: feat(db): add migrations • about 4 hours ago
 
 
 ---
@@ -65,4 +65,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 10 July 2025 16:10*   
+*Last updated: 10 July 2025 20:09*   
