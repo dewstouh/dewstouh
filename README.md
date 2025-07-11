@@ -51,11 +51,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: feat(packages): add lint checks • about 4 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: fix(packages): correct lint errors • about 4 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: chore(turbo): disable caching for tests • about 4 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: refactor(db): default Site and Outage id to random uuid • about 4 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: feat(db): add migrations • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: docs(README): add description and set bot features and content below preview • about 7 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: docs(README): add bot preview in readme • about 7 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: feat(assets): add image previews • about 7 hours ago
+- <strong>Release</strong> on <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a> • about 7 hours ago
+- <strong>Create</strong> on <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a> • about 7 hours ago
 
 
 ---
@@ -65,4 +65,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 10 July 2025 20:09*   
+*Last updated: 11 July 2025 04:26*   
