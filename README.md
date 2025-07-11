@@ -51,12 +51,12 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: docs(README): fix repo url on CI badge • about 13 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: chore(main): release 1.1.0 • about 14 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: docs(README): fix repo url on CI badge • about 17 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: chore(main): release 1.1.0 • about 18 hours ago
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: chore(main): release 1.1.0
-  - Features • about 13 hours ago
-- <strong>PullRequest</strong> on <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a> • about 14 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: fix: correct release after tag cleaup • about 13 hours ago
+  - Features • about 17 hours ago
+- <strong>PullRequest</strong> on <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a> • about 18 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: fix: correct release after tag cleaup • about 17 hours ago
 
 
 ---
@@ -66,4 +66,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 11 July 2025 12:15*   
+*Last updated: 11 July 2025 16:10*   
