@@ -51,11 +51,12 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: docs(README): add description and set bot features and content below preview • about 7 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: docs(README): add bot preview in readme • about 7 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: feat(assets): add image previews • about 7 hours ago
-- <strong>Release</strong> on <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a> • about 7 hours ago
-- <strong>Create</strong> on <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a> • about 7 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: docs(README): fix repo url on CI badge • about 9 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: chore(main): release 1.1.0 • about 10 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: chore(main): release 1.1.0
+  - Features • about 9 hours ago
+- <strong>PullRequest</strong> on <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a> • about 10 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: fix: correct release after tag cleaup • about 9 hours ago
 
 
 ---
@@ -65,4 +66,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 11 July 2025 04:26*   
+*Last updated: 11 July 2025 08:12*   
