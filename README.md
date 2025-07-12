@@ -51,11 +51,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Create</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • about 15 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: chore(main): release 1.0.0 • about 16 hours ago
-- <strong>PullRequest</strong> on <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a> • about 16 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: ci(workflows): add pnpm to build-and-publish job • about 16 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: ci(workflows): add release workflow • about 16 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: docs(SECURITY): add security contact email • about 16 hours ago
+- <strong>Create</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • about 19 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: chore(main): release 1.0.0 • about 20 hours ago
+- <strong>PullRequest</strong> on <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a> • about 20 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: ci(workflows): add pnpm to build-and-publish job • about 20 hours ago
 
 
 ---
@@ -65,4 +65,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 12 July 2025 08:10*   
+*Last updated: 12 July 2025 12:14*   
