@@ -51,15 +51,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>PullRequest</strong> on <a href="https://github.com/GUSGUS33/crm-merchandising">GUSGUS33/crm-merchandising</a> • about 15 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/crm-merchandising">dewstouh/crm-merchandising</a>: fix(vite): set base to './' in config for correct static deployment
-  - Set the base option to './' in vite.config.js to ensure that static assets load correctly when deploying the app to a subdirectory or static hosting environment (like Plesk).
-
-This prevents broken links to JS/CSS files and fixes blank page issues in production builds. No changes to application logic. • about 15 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: docs(README): fix repo url on CI badge • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: chore(main): release 1.1.0 • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: chore(main): release 1.1.0
-  - Features • 1 day ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: chore(main): release 1.0.0 • about 12 hours ago
+- <strong>PullRequest</strong> on <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a> • about 12 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: ci(workflows): add pnpm to build-and-publish job • about 12 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: ci(workflows): add release workflow • about 12 hours ago
+- <strong>PullRequest</strong> on <a href="https://github.com/GUSGUS33/crm-merchandising">GUSGUS33/crm-merchandising</a> • about 18 hours ago
 
 
 ---
@@ -69,4 +65,4 @@ This prevents broken links to JS/CSS files and fixes blank page issues in produc
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 12 July 2025 00:44*   
+*Last updated: 12 July 2025 04:21*   
