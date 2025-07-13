@@ -51,11 +51,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: docs(SECURITY): add security contact email • 1 day ago
-- <strong>Create</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: chore(main): release 1.0.0 • 1 day ago
-- <strong>PullRequest</strong> on <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a> • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: ci(workflows): add pnpm to build-and-publish job • 1 day ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: docs(TODO): add i18n translation todo • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: docs(TODO): add policies, add contributed and other documents related to the repo and add dev branch • about 5 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore: add MIT license file • about 5 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(github): add FUNDING.yml for sponsorship links • about 5 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: ci(workflows): add release please workflow for release management • about 5 hours ago
 
 
 ---
@@ -65,4 +65,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 12 July 2025 20:09*   
+*Last updated: 13 July 2025 04:27*   
