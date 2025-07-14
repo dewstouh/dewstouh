@@ -51,11 +51,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: docs(TODO): add i18n translation todo • about 20 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: docs(TODO): add policies, add contributed and other documents related to the repo and add dev branch • about 21 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore: add MIT license file • about 21 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(github): add FUNDING.yml for sponsorship links • about 21 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: ci(workflows): add release please workflow for release management • about 21 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: docs(TODO): mark task as completed • about 2 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(utils): create dedicated .ts file for utils with < 4 functions or short functions + feat: media patterns for image and video attachments • about 2 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(web): move colors.ts from lib to constants • about 2 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: feat(web): add video previews compatibility for attachments from youtube, imgur and other sources • about 2 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(packages): remove unused patterns.ts file • about 2 hours ago
 
 
 ---
@@ -65,4 +65,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 13 July 2025 20:08*   
+*Last updated: 14 July 2025 12:17*   
