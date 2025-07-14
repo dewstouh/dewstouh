@@ -51,11 +51,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(web/components): attachment modal show iframe of unknown media type source instead of url • about 4 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(web(components): update video attachment component text to "Play video" • about 4 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(web/components): remove BREADCRUMB_README.md • about 4 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(web): make Attachment component self-contained with internal modal and error handling • about 4 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(mocks): add real mock images as attachments from external sources • about 4 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(web/components): attachment modal show iframe of unknown media type source instead of url • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(web(components): update video attachment component text to "Play video" • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(web/components): remove BREADCRUMB_README.md • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(web): make Attachment component self-contained with internal modal and error handling • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(mocks): add real mock images as attachments from external sources • about 8 hours ago
 
 
 ---
@@ -65,4 +65,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 14 July 2025 16:10*   
+*Last updated: 14 July 2025 20:10*   
