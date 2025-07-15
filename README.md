@@ -51,11 +51,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(web/componenst): remove h max size limit inside unknown media type as it is already handled by parent • about 10 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: style(web/components): add white neutral background and cursor pointer to attachment modal close button • about 10 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: style(web): remove navbar background blur • about 10 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: docs(TODO): add bug fix task • about 10 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(web): dynamically import navbar items from database • about 10 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(web/componenst): remove h max size limit inside unknown media type as it is already handled by parent • about 14 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: style(web/components): add white neutral background and cursor pointer to attachment modal close button • about 14 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: style(web): remove navbar background blur • about 14 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: docs(TODO): add bug fix task • about 14 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(web): dynamically import navbar items from database • about 14 hours ago
 
 
 ---
@@ -65,4 +65,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 15 July 2025 04:29*   
+*Last updated: 15 July 2025 08:13*   
