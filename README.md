@@ -51,12 +51,13 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: feat(turbo): add DATABASE_URL on globalEnv • about 16 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(web/api/contact): initialize Resend lazily to avoid build-time errors • about 16 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: fix: initialize resend lazily to avoid build time errors and add DATABASE_URL to global env config in turbo.json
-  - fix: initialize resend lazily to avoid build time errors and add DATABASE_URL to global env config in turbo.json • about 16 hours ago
-- <strong>PullRequest</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • about 17 hours ago
-- <strong>Create</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • about 16 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(main): release 1.1.0 • about 19 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: Merge pull request #4 from dewstouh/release-please--branches--main--components--justdiego
+  - chore(main): release 1.1.0 • about 19 hours ago
+- <strong>PullRequest</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • about 20 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: fix(web): serve unoptimized images to ensure loading from external sources • about 19 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: fix(web): serve unoptimized images to ensure loading from external sources
+  - fix(web): serve unoptimized images to ensure loading from external sources • about 19 hours ago
 
 
 ---
@@ -66,4 +67,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 17 July 2025 12:16*   
+*Last updated: 17 July 2025 16:10*   
