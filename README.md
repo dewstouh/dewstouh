@@ -51,11 +51,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: fix(web): redirect CTA main button to /tools instead of /solutions • about 13 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(web): remove tools page • about 13 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: feat(web): add DefaultSuspense component and implement it in components that were using Suspense with same div • about 17 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: style(web/hero): rename CTA text hero button to "TRACK YOUR BUSINESS" • about 17 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: docs(TODO): mark tasks as completed • 1 day ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(web/dashboard): move admin solution form components into admin path • about 14 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(web): split admin dashboard into multiple components • about 14 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: feat(web): add admin api endpoints for dashboard • about 15 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: feat(web): add admin dashboard components • about 15 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: feat(web): add admin dashboard layout and page to add solutions • about 15 hours ago
 
 
 ---
@@ -65,4 +65,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 17 July 2025 04:27*   
+*Last updated: 17 July 2025 08:13*   
