@@ -51,11 +51,12 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(web/dashboard): move admin solution form components into admin path • about 14 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(web): split admin dashboard into multiple components • about 14 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: feat(web): add admin api endpoints for dashboard • about 15 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: feat(web): add admin dashboard components • about 15 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: feat(web): add admin dashboard layout and page to add solutions • about 15 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: feat(turbo): add DATABASE_URL on globalEnv • about 16 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: refactor(web/api/contact): initialize Resend lazily to avoid build-time errors • about 16 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: fix: initialize resend lazily to avoid build time errors and add DATABASE_URL to global env config in turbo.json
+  - fix: initialize resend lazily to avoid build time errors and add DATABASE_URL to global env config in turbo.json • about 16 hours ago
+- <strong>PullRequest</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • about 17 hours ago
+- <strong>Create</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • about 16 hours ago
 
 
 ---
@@ -65,4 +66,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 17 July 2025 08:13*   
+*Last updated: 17 July 2025 12:16*   
