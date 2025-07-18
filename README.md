@@ -51,13 +51,13 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(main): release 1.1.0 • about 23 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(main): release 1.1.0 • 1 day ago
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: Merge pull request #4 from dewstouh/release-please--branches--main--components--justdiego
-  - chore(main): release 1.1.0 • about 23 hours ago
+  - chore(main): release 1.1.0 • 1 day ago
 - <strong>PullRequest</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: fix(web): serve unoptimized images to ensure loading from external sources • about 23 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: fix(web): serve unoptimized images to ensure loading from external sources • 1 day ago
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: fix(web): serve unoptimized images to ensure loading from external sources
-  - fix(web): serve unoptimized images to ensure loading from external sources • about 23 hours ago
+  - fix(web): serve unoptimized images to ensure loading from external sources • 1 day ago
 
 
 ---
@@ -67,4 +67,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 17 July 2025 20:09*   
+*Last updated: 18 July 2025 08:13*   
