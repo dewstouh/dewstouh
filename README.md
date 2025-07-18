@@ -21,13 +21,12 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(main): release 1.1.0 • 2 days ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: Merge pull request #4 from dewstouh/release-please--branches--main--components--justdiego
-  - chore(main): release 1.1.0 • 2 days ago
-- <strong>PullRequest</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • 2 days ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: fix(web): serve unoptimized images to ensure loading from external sources • 2 days ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: fix(web): serve unoptimized images to ensure loading from external sources
-  - fix(web): serve unoptimized images to ensure loading from external sources • 2 days ago
+- <strong>Create</strong> on <a href="https://github.com/dewstouh/criforge.com">dewstouh/criforge.com</a> • about 8 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: docs(README): fix guide previews • about 9 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: chore(main): release 1.1.0 • about 10 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: Merge pull request #5 from dewstouh/release-please--branches--main--components--quick-status
+  - chore(main): release 1.1.0 • about 10 hours ago
+- <strong>PullRequest</strong> on <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a> • about 10 hours ago
 
 
 ---
@@ -37,4 +36,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 18 July 2025 16:12*   
+*Last updated: 18 July 2025 20:09*   
