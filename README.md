@@ -21,12 +21,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Create</strong> on <a href="https://github.com/dewstouh/criforge.com">dewstouh/criforge.com</a> • about 8 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: docs(README): fix guide previews • about 9 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: chore(main): release 1.1.0 • about 10 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: Merge pull request #5 from dewstouh/release-please--branches--main--components--quick-status
-  - chore(main): release 1.1.0 • about 10 hours ago
-- <strong>PullRequest</strong> on <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a> • about 10 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/criforge.com">dewstouh/criforge.com</a>: chore: add issue templates (bug report, config, doc, feature request, question) • about 10 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/criforge.com">dewstouh/criforge.com</a>: chore: add contributing and contributor license agreement • about 10 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/criforge.com">dewstouh/criforge.com</a>: chore: add codeowners and security doc • about 10 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/criforge.com">dewstouh/criforge.com</a>: chore: add funding and pull request template • about 10 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/criforge.com">dewstouh/criforge.com</a>: chore: add .github/instructions to gitignore • about 10 hours ago
 
 
 ---
@@ -36,4 +35,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 18 July 2025 20:09*   
+*Last updated: 19 July 2025 00:43*   
