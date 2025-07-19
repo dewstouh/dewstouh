@@ -21,11 +21,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(deps/web): compile only on build to avoid needing a database connection • about 14 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: docs(README): add video previews for testing, linting and badges • about 14 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(docker): set DATABASE_URL for local postgres • about 14 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(ci): build Docker image for multiple platforms except on pull_request and add pr- tag extraction for pull_request events • about 14 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: Merge pull request #21 from dewstouh/dev • about 14 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(deps/web): compile only on build to avoid needing a database connection • about 18 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: docs(README): add video previews for testing, linting and badges • about 18 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(docker): set DATABASE_URL for local postgres • about 18 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(ci): build Docker image for multiple platforms except on pull_request and add pr- tag extraction for pull_request events • about 18 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: Merge pull request #21 from dewstouh/dev • about 18 hours ago
 
 
 ---
@@ -35,4 +35,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 19 July 2025 12:14*   
+*Last updated: 19 July 2025 16:09*   
