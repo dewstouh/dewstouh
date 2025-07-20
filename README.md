@@ -21,11 +21,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(docker): update Node.js version to 20-alpine in Dockerfile • about 10 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: ci(docker): add multi-arch support, dynamic env vars in build workflow and tracking on env branch • about 10 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: ci: update workflows to run on dev • about 12 hours ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: fix(ci): write repo name to $GITHUB_ENV instead of invalid $GITHUB to fix env setup • about 12 hours ago
-- <strong>Create</strong> on <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a> • about 12 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: ci(docker): fix Dockerfile to properly build and copy monorepo packages + add healthcheck • about 13 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: ci(docker): fix Dockerfile to properly build and copy monorepo packages • about 13 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: refactor(docker): use mulit-stage build to reduce image size and remove unnecessary deps • about 13 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: ci(docker): add default architecture tag for main branch builds only • about 13 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/quick-status">dewstouh/quick-status</a>: ci(docker-build): allow login action on push, pr and dispatch • about 14 hours ago
 
 
 ---
@@ -35,4 +35,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 20 July 2025 08:11*   
+*Last updated: 20 July 2025 12:14*   
