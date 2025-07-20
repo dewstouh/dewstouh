@@ -21,11 +21,11 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(deps/web): compile only on build to avoid needing a database connection • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: docs(README): add video previews for testing, linting and badges • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(docker): set DATABASE_URL for local postgres • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(ci): build Docker image for multiple platforms except on pull_request and add pr- tag extraction for pull_request events • 1 day ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: Merge pull request #21 from dewstouh/dev • 1 day ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(deps): add package description in package.json • about 11 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: ci(docker): autogenerate docker image name from repo and owner • about 11 hours ago
+- <strong>PullRequest</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • 1 day ago
+- <strong>Create</strong> on <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a> • about 11 hours ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/justdiego">dewstouh/justdiego</a>: chore(ci): build Docker images with matrix for amd64 and arm64 and set timeout minutes to 15 • about 12 hours ago
 
 
 ---
@@ -35,4 +35,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 20 July 2025 00:51*   
+*Last updated: 20 July 2025 04:32*   
