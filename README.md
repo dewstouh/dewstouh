@@ -21,9 +21,9 @@
 ### ✍ Recent Activity
 
 
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: feat: add Docker support with Dockerfile, docker-compose and CI workflow for Niby • 7 days ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: fix(ci): write repo name to $GITHUB_ENV instead of invalid $GITHUB to fix env setup • 8 days ago
-- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: ci: update workflows to run on dev • 8 days ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: feat: add Docker support with Dockerfile, docker-compose and CI workflow for Niby • 8 days ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: fix(ci): write repo name to $GITHUB_ENV instead of invalid $GITHUB to fix env setup • 9 days ago
+- <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: ci: update workflows to run on dev • 9 days ago
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: chore(deps): replace dotenv with dotenvx and scripts • 8 days ago
 - <strong>Commit</strong> to <a href="https://github.com/dewstouh/niby-discord-bot">dewstouh/niby-discord-bot</a>: refactor: add path and update "@" resolution logic • 8 days ago
 
@@ -35,4 +35,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 28 July 2025 08:14*   
+*Last updated: 28 July 2025 12:17*   
