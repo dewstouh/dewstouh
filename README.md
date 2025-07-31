@@ -35,4 +35,4 @@
   <a href="mailto:diego@justdiego.com">📧 Let's talk.</a>
 </p>
 
-*Last updated: 30 July 2025 20:08*   
+*Last updated: 31 July 2025 00:45*   
